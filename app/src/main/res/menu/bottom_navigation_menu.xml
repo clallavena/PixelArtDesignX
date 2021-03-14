@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lib"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_photo_library_24"
+        android:title="@string/library"/>
+    <item
+        android:id="@+id/my_work"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:title="@string/my_work"/>
+    <item
+        android:id="@+id/create"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_add_photo_alternate_24"
+        android:title="@string/create"/>
+</menu>
